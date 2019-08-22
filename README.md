@@ -1,5 +1,5 @@
 # hello-world
 
 #intro
-Hello, my name is Ridho Dewanto. Believed that it was never too late to learn, I learn git and github.
+Hello, my name is Ridho Dewanto.
 Move along, find more interesting github.
